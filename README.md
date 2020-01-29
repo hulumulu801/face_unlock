@@ -3,7 +3,7 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
 
 Привет! Это небольшие скрипты позволят Вам разблокировать свой ПК по лицу не вводя пароля от screenlock.
 
-Тестировались скрипты на Kali Linux(2019.2) и Ubuntu(18.04.3). На KAli Linux(2019.4) - РАБОТАТЬ НЕ БУДЕТ
+Тестировались скрипты на Kali Linux(2019.2) и Ubuntu(18.04.3). На Kali Linux(2019.4) - РАБОТАТЬ НЕ БУДЕТ
 
 Теперь не нужно вводить логин и пароль от screenlock.
 ![Image alt](https://github.com/hulumulu801/face_unlock/blob/master/pict/0.png)
