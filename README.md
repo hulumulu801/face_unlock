@@ -34,7 +34,7 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
  
  - 
 
-# Если Kali Linux
+# Если Kali Linux:
 
 - mv face_unlock/kali_linux/ /root/
 
@@ -64,7 +64,7 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
 
     Ctrl + A + 4
 
-Сочетание клавиш ("Ctrl + A + 4") можно изменять на любые, смотри 02_face.py строка 116
+Сочетание клавиш ("Ctrl + A + 4") можно изменять на любые, смотри 02_face.py строка 116. Да и вообще, можно сделать генератор горячих клавиш, при каждом заблокированном экране нам на почту будет отсылаться комбинация клавиш.
 
 Строка 117 - выход из скрипта, т.е. чтобы занова запустить скрипт 02_face.py в демоне нужно перезагрузить supervisor(sudo service supervisor restart)
 
