@@ -50,7 +50,7 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
     
 - Запускаем первый скрипт и смотрим в камеру:
 
- python3 01_face.py
+    python3 01_face.py
  
 - Проверяем, блокируем экран командой(сочетание клавишь):
 
