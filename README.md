@@ -38,6 +38,8 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
 
 - mv face_unlock/kali_linux/ /root/
 
+- rm -rf face_unlock/
+
 - cd kali_linux/
 
 - Запускаем инсталятор(install.py). Он установит dlib и supervisor.
