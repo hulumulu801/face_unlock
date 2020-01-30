@@ -35,3 +35,7 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
 # Если Kali Linux
 
 - mv face_unlock/kali_linux/ /root/
+
+- cd kali_linux/
+
+- 
