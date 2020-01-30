@@ -38,4 +38,8 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
 
 - cd kali_linux/
 
-- 
+- Запускаем инсталятор(install.py). Он установит dlib и supervisor.
+
+    python3 install.py
+
+- service supervisor status
