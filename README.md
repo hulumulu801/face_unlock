@@ -47,6 +47,22 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
     service supervisor status
     
     ![Image alt](https://github.com/hulumulu801/face_unlock/blob/master/pict/2.png)
+    
+- Запускаем первый скрипт и смотрим в камеру:
+
+ python3 01_face.py
+ 
+- Проверяем, блокируем экран командой(сочетание клавишь):
+
+    SUPER + L
+    
+- Разблокируем экран(сочетание клавишь):
+
+    CTRL + 1
+
+Горячую клавишу("CTRL + 1") можно изменять на любые, смотри 02_face.py строка 116
+
+Строка 117 - выход из скрипта, т.е. чтобы занова запустить скрипт 02_face.py в демоне нужно перезагрузить supervisor(sudo service supervisor restart)
 
 # Если Kali Linux:
 
@@ -80,6 +96,6 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
 
 Сочетание клавиш ("Ctrl + A + 4") можно изменять на любые, смотри 02_face.py строка 116. Да и вообще, можно сделать генератор горячих клавиш, при каждом заблокированном экране нам на почту будет отсылаться комбинация клавиш.
 
-Строка 117 - выход из скрипта, т.е. чтобы занова запустить скрипт 02_face.py в демоне нужно перезагрузить supervisor(sudo service supervisor restart)
+Строка 117 - выход из скрипта, т.е. чтобы занова запустить скрипт 02_face.py в демоне нужно перезагрузить supervisor(service supervisor restart)
 
 P.S. Это примитивное распознование лица, т.е. по картинки то же распознает, не стоит на него расчитывать) но очень удобно, когда у Вас пароль очень длинный и вводить надоедает
