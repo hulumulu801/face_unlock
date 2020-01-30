@@ -26,5 +26,9 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
 
 - открываем терминал и вставляем следующее содержимое:
     
-    "git clone https://github.com/hulumulu801/face_unlock.git"
+    git clone https://github.com/hulumulu801/face_unlock.git
+    
+ # Если UBUNTU:
+ 
+ - 
 
