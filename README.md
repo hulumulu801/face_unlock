@@ -23,6 +23,12 @@
 
 - открываем терминал и вставляем следующее содержимое:
 
+    sudo apt-get update
+    
+    sudo apt-get upgrade
+    
+    sudo apt-get dist-upgrade
+
     cd --
     
     git clone https://github.com/hulumulu801/face_unlock.git
