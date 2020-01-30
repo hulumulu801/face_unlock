@@ -17,5 +17,7 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
 ВАЖНО, для запуска необходимо убедится, что бы путь до скриптов не имел русских букв.(Команда: pwd). Обращаем внимание на выделенное, см. рис. ниже.
 ![Image alt](https://github.com/hulumulu801/face_unlock/blob/master/pict/1.png)
 
+Ваша камера должна иметь путь /dev/video0, если отличается путь, исправляем в 01_face.py и 02_face.py
+
 Проверяем, подключена ли камера(Команда: ls /dev/):
 ![Image alt](https://github.com/hulumulu801/face_unlock/blob/master/pict/0_2.png)
