@@ -21,3 +21,6 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
 
 Проверяем, подключена ли камера(Команда: ls /dev/):
 ![Image alt](https://github.com/hulumulu801/face_unlock/blob/master/pict/0_2.png)
+
+# Как установить?
+
