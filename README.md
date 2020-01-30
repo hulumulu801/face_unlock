@@ -24,3 +24,5 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
 
 # Как установить?
 
+git clone https://github.com/hulumulu801/face_unlock.git
+
