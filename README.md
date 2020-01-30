@@ -25,6 +25,8 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
 # Как установить?
 
 - открываем терминал и вставляем следующее содержимое:
+
+    cd --
     
     git clone https://github.com/hulumulu801/face_unlock.git
     
@@ -46,4 +48,4 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
 
     service supervisor status
     
-    ![Image alt]""
+    ![Image alt]"https://github.com/hulumulu801/face_unlock/blob/master/pict/2_2.png"
