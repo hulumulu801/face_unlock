@@ -32,7 +32,21 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
     
  # Если UBUNTU:
  
- - 
+ - mv face_unlock/ubuntu/ /home/ТУТ_ПИШЕМ_ИМЯ_ПОЛЬЗОВАТЕЛЯ/
+
+- rm -rf face_unlock/
+
+- cd ubuntu/
+
+- Запускаем инсталятор(install.py). Он установит dlib и supervisor.
+
+    sudo python3 install.py
+    
+ - Проверяем как запустился supervisor. Если все ок, то должно быть как на рис. ниже. Обращаем внимание на выделенное, см. рис. ниже.
+
+    service supervisor status
+    
+    ![Image alt](https://github.com/hulumulu801/face_unlock/blob/master/pict/2.png)
 
 # Если Kali Linux:
 
