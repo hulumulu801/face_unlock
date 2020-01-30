@@ -42,4 +42,8 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
 
     python3 install.py
 
-- service supervisor status
+- Проверяем как запустился supervisor. Если все ок, то должно быть как на рис. ниже. Обращаем внимание на выделенное, см. рис. ниже.
+
+    service supervisor status
+    
+    ![Image alt]""
