@@ -52,7 +52,7 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
     
     ![Image alt](https://github.com/hulumulu801/face_unlock/blob/master/pict/2_2.png)
     
- - Запускаем первый скрипт и смотрим на камеру:
+ - Запускаем первый скрипт и смотрим в камеру:
     
     python3 01_face.py
     
