@@ -48,4 +48,4 @@ Hello! These small scripts will allow you to unlock your PC in the face without 
 
     service supervisor status
     
-    ![Image alt]"https://github.com/hulumulu801/face_unlock/blob/master/pict/2_2.png"
+    ![Image alt](https://github.com/hulumulu801/face_unlock/blob/master/pict/2_2.png)
